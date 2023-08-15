@@ -1,0 +1,3 @@
+name:virti
+skills:HTML,CSS,JS
+email:virti1709@gmail.com
